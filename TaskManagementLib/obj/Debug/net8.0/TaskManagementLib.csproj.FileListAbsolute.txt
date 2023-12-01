@@ -1,0 +1,6 @@
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.csproj.AssemblyReference.cache
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.AssemblyInfoInputs.cache
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.AssemblyInfo.cs
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\z004nzdw\Mvc-Web5\TaskManagementLib\obj\Debug\net8.0\TaskManagementLib.sourcelink.json
