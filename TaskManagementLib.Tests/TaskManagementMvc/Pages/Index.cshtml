@@ -1,0 +1,15 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Task Management";
+}
+
+<h2>Task List</h2>
+
+@foreach (var task in Model.Tasks)
+{
+    <div>
+        <strong>@task.Title</strong>
+        <p>@task.Description</p>
+    </div>
+}
